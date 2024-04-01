@@ -1,0 +1,8 @@
+Harry|Callum|01/12/1999|0781234543|3456|Dermatopathology
+Jack|Connar|01/02/1998|0112345678|0987|Surgeon
+Nawanjana|Erandi|12/03/2001|1234567890|1212|cosmetic dermatology
+Oliver|Jake|12/12/1999|0111234567|1234|Surgeon
+Thomas|Joe|03/12/1978|0771234567|0099|Cosmetic dermatology
+Dulami|Kaludewa|12/05/2001|1234567899|1111|medical dermatology
+Punsisi|Shaminka|12/03/1998|1111567890|2222|cosmetic dermatology
+Tamado|Tanjiro|12/03/2001|1234567890|1213|paediatric dermatology
